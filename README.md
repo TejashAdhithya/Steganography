@@ -37,11 +37,11 @@ pip install opencv-python cryptography tkinter
 2. Click **Decode** to extract and decrypt the hidden message.
 
 ## Screenshots
-#Encoding
+Encoding
 
 ![Screenshot 2025-02-19 202110](https://github.com/user-attachments/assets/284f44a5-d09c-4620-94b4-9715cb5ebe5e)
 
-#Decoding
+Decoding
 
 ![Screenshot 2025-02-19 202129](https://github.com/user-attachments/assets/cd11addb-9262-4e6f-92ff-0ef8fdaa44d7)
 
